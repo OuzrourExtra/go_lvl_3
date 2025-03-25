@@ -1,0 +1,42 @@
+[
+	{
+		"question": "What is the square of 4 ?",
+		"answers": [
+			"4",
+			"8",
+			"16",
+			"2"
+		],
+		"correct": 3
+	},
+	{
+		"question": "What is the square of 9 ?",
+		"answers": [
+			"18",
+			"81",
+			"99",
+			"3"
+		],
+		"correct": 2
+	},
+	{
+		"question": "what is the Square root of 64 ?",
+		"answers": [
+			"4",
+			"32",
+			"16",
+			"8"
+		],
+		"correct": 4
+	},
+	{
+		"question": "what is the square root of 25 ?",
+		"answers": [
+			"2",
+			"10",
+			"25",
+			"5"
+		],
+		"correct": 4
+	}
+]
